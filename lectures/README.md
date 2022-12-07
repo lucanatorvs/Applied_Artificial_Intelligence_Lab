@@ -9,3 +9,5 @@ Pull requests are welcome :)
 [Lecture 2](2.md)
 
 [Lecture 3](3.md)
+
+[Lecture 4](4.md)
