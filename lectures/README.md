@@ -13,3 +13,5 @@ Pull requests are welcome :)
 [Lecture 4](4.md)
 
 [Lecture 5](5.md)
+
+[Lecture 6](6.md)
