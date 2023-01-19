@@ -15,3 +15,5 @@ Pull requests are welcome :)
 [Lecture 5](5.md)
 
 [Lecture 6](6.md)
+
+or look at the [summery](summary.md)
